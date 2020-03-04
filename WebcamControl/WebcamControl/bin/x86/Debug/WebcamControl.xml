@@ -1,0 +1,127 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebcamControl
+</name>
+</assembly>
+<members>
+<member name="T:WebcamControl.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WebcamControl.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WebcamControl.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:WebcamControl.Webcam">
+<summary>
+Webcam
+</summary>
+</member>
+<member name="P:WebcamControl.Webcam.VideoFileFormat">
+ <summary>
+ Gets the video format in which the webcam video will be saved.
+ </summary>
+</member>
+<member name="P:WebcamControl.Webcam.SnapshotFormat">
+ <summary>
+ Gets or Sets the format used when saving video snapshot.
+ </summary>    
+</member>
+<member name="P:WebcamControl.Webcam.VideoDevice">
+ <summary>
+ Gets or Sets the name of the video device.
+ </summary>    
+</member>
+<member name="P:WebcamControl.Webcam.AudioDevice">
+ <summary>
+ Gets or Sets the name of the audio device.
+ </summary>    
+</member>
+<member name="P:WebcamControl.Webcam.VideoName">
+ <summary>
+ Gets or Sets the name of the video file. (The name should not include the file extension).
+ </summary>    
+</member>
+<member name="P:WebcamControl.Webcam.VideoDirectory">
+ <summary>
+ Gets or Sets the folder where the recorded video will be saved.
+ </summary>    
+</member>
+<member name="P:WebcamControl.Webcam.ImageDirectory">
+ <summary>
+ Gets or Sets the folder where video snapshot will be saved.
+ </summary>    
+</member>
+<member name="P:WebcamControl.Webcam.FrameRate">
+ <summary>
+ Gets or sets the frame rate, in frames per second. Default value is 15.
+ </summary>    
+</member>
+<member name="P:WebcamControl.Webcam.Bitrate">
+ <summary>
+ Gets or sets the bitrate. Default value is 2000.
+ </summary>    
+</member>
+<member name="P:WebcamControl.Webcam.FrameSize">
+ <summary>
+ Gets or sets the size of the video profile. Default is 320x240.
+ </summary>    
+</member>
+<member name="P:WebcamControl.Webcam.IsRecording">
+ <summary>
+ Gets a value indicating whether video recording is taking place.
+ </summary>
+</member>
+<member name="M:WebcamControl.Webcam.StartPreview">
+ <summary>
+ Displays webcam video.
+ </summary>
+</member>
+<member name="M:WebcamControl.Webcam.StopPreview">
+ <summary>
+ Stops the display of webcam video and also stops any ongoing recording.
+ </summary>
+</member>
+<member name="M:WebcamControl.Webcam.StartRecording">
+ <summary>
+ Starts the recording of webcam images to a video file.
+ </summary>
+ <returns>Location where recoding is being saved.</returns>
+</member>
+<member name="M:WebcamControl.Webcam.StopRecording">
+ <summary>
+ Stops the recording of webcam video.
+ </summary>
+</member>
+<member name="M:WebcamControl.Webcam.TakeSnapshot">
+ <summary>
+ Takes a snapshot of an webcam image.
+ The size of the image will be equal to the size of the control.
+ </summary>
+ <returns>Location where snapshot is saved.</returns>
+</member>
+<member name="M:WebcamControl.Webcam.TakeSnapshot(System.String)">
+ <summary>
+ Takes a snapshot of an webcam image.
+ The size of the image will be equal to the size of the control.
+ </summary>
+ <param name="name">Name of the file.</param>
+ <returns></returns>
+</member>
+<member name="M:WebcamControl.Webcam.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

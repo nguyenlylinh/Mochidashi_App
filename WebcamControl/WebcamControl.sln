@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebcamControl", "WebcamControl\WebcamControl.vbproj", "{72108E55-77EC-4C0C-9B6F-A5D882726A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Webcam CS", "WPF Webcam CS\WPF Webcam CS.csproj", "{5D93DA61-ECAC-4AFF-B51B-783557645F07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72108E55-77EC-4C0C-9B6F-A5D882726A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72108E55-77EC-4C0C-9B6F-A5D882726A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72108E55-77EC-4C0C-9B6F-A5D882726A6B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{72108E55-77EC-4C0C-9B6F-A5D882726A6B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{72108E55-77EC-4C0C-9B6F-A5D882726A6B}.Debug|x86.ActiveCfg = Release|x86
+		{72108E55-77EC-4C0C-9B6F-A5D882726A6B}.Debug|x86.Build.0 = Release|x86
+		{72108E55-77EC-4C0C-9B6F-A5D882726A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72108E55-77EC-4C0C-9B6F-A5D882726A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72108E55-77EC-4C0C-9B6F-A5D882726A6B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{72108E55-77EC-4C0C-9B6F-A5D882726A6B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{72108E55-77EC-4C0C-9B6F-A5D882726A6B}.Release|x86.ActiveCfg = Release|Any CPU
+		{5D93DA61-ECAC-4AFF-B51B-783557645F07}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5D93DA61-ECAC-4AFF-B51B-783557645F07}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{5D93DA61-ECAC-4AFF-B51B-783557645F07}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{5D93DA61-ECAC-4AFF-B51B-783557645F07}.Debug|x86.ActiveCfg = Debug|x86
+		{5D93DA61-ECAC-4AFF-B51B-783557645F07}.Debug|x86.Build.0 = Debug|x86
+		{5D93DA61-ECAC-4AFF-B51B-783557645F07}.Release|Any CPU.ActiveCfg = Release|x86
+		{5D93DA61-ECAC-4AFF-B51B-783557645F07}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{5D93DA61-ECAC-4AFF-B51B-783557645F07}.Release|Mixed Platforms.Build.0 = Release|x86
+		{5D93DA61-ECAC-4AFF-B51B-783557645F07}.Release|x86.ActiveCfg = Release|x86
+		{5D93DA61-ECAC-4AFF-B51B-783557645F07}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72DECD35-3ADB-464D-AE7E-3F3C7EC2FA4A}
+	EndGlobalSection
+EndGlobal

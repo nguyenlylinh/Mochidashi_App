@@ -1,0 +1,219 @@
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe.config
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.pdb
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.dll
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.dll
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.dll
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.xml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.xml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.xml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.xml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csprojResolveAssemblyReference.cache
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.g.cs
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\obj\x86\Debug\App.g.cs
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.cache
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.lref
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.baml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.g.resources
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF_Webcam_CS.Properties.Resources.resources
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.GenerateResource.Cache
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.exe
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.pdb
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe.config
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.exe
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.pdb
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.pdb
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.dll
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.dll
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.dll
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.xml
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.xml
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.xml
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.xml
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csprojResolveAssemblyReference.cache
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.g.cs
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\obj\x86\Debug\App.g.cs
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.cache
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.lref
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.baml
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.g.resources
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF_Webcam_CS.Properties.Resources.resources
+F:\Projects\Webcam\v3.3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.GenerateResource.Cache
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csprojAssemblyReference.cache
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\App.g.cs
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.cache
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe.config
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.pdb
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.dll
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.pdb
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.xml
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll.config
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.lref
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.baml
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.g.resources
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF_Webcam_CS.Properties.Resources.resources
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.GenerateResource.cache
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.CoreCompileInputs.cache
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.CopyComplete
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.exe
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.pdb
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe.config
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.pdb
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.pdb
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.dll.config
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll.config
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csprojAssemblyReference.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\App.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.lref
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.baml
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.g.resources
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF_Webcam_CS.Properties.Resources.resources
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.GenerateResource.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.CoreCompileInputs.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.CopyComplete
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.exe
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.pdb
+C:\Users\lylinh\Desktop\カメラアクセス\version2\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_Content.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe.config
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.pdb
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.pdb
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.dll.config
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll.config
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csprojAssemblyReference.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\App.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.lref
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.baml
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.g.resources
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF_Webcam_CS.Properties.Resources.resources
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.GenerateResource.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.CoreCompileInputs.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.CopyComplete
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.exe
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.pdb
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\ja\EntityFramework.resources.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\bin\x86\Debug\ja\EntityFramework.SqlServer.resources.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\CustomizeDialog.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\CustomizeDialog.baml
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\SuccessDialog.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\SuccessDialog.baml
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\FaceConfirmResultDialog.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version3\WebcamControl\WPF Webcam CS\obj\x86\Debug\FaceConfirmResultDialog.baml
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe.config
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.pdb
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.pdb
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.dll.config
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll.config
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\ja\EntityFramework.resources.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\bin\x86\Debug\ja\EntityFramework.SqlServer.resources.dll
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csprojAssemblyReference.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\CustomizeDialog.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\FaceConfirmResultDialog.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\SuccessDialog.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\App.g.cs
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.lref
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\CustomizeDialog.baml
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\FaceConfirmResultDialog.baml
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.baml
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\SuccessDialog.baml
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.g.resources
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF_Webcam_CS.Properties.Resources.resources
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.GenerateResource.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.CoreCompileInputs.cache
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.CopyComplete
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.exe
+C:\Users\lylinh\Desktop\カメラアクセス\version4\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.pdb
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe.config
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.exe
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\WPF Webcam CS.pdb
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.dll
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.dll
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.pdb
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.xml
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\WebcamControl.dll.config
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.xml
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.dll.config
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\ja\EntityFramework.resources.dll
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\bin\x86\Debug\ja\EntityFramework.SqlServer.resources.dll
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csprojAssemblyReference.cache
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\CustomizeDialog.g.cs
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\FaceConfirmResultDialog.g.cs
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\SuccessDialog.g.cs
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\App.g.cs
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.cache
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS_MarkupCompile.lref
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\CustomizeDialog.baml
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\FaceConfirmResultDialog.baml
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\MainWindow.baml
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\SuccessDialog.baml
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.g.resources
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF_Webcam_CS.Properties.Resources.resources
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.GenerateResource.cache
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.CoreCompileInputs.cache
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.csproj.CopyComplete
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.exe
+C:\Users\lylinh\Documents\GitHub\Mochidashi_App\WebcamControl\WPF Webcam CS\obj\x86\Debug\WPF Webcam CS.pdb

@@ -1,0 +1,125 @@
+﻿<Window x:Class="WPF_Webcam_CS.MainWindow" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Webcam_CS"
+        xmlns:cam="clr-namespace:WebcamControl;assembly=WebcamControl"
+        Title="WPF Webcam" Height="870" Width="1350">
+    <Border Background="#000033">
+        <Grid Margin="1,-38,-1,-0.5">
+
+            <cam:Webcam x:Name="WebcamViewer" Margin="26,354,875,105" BorderThickness="1" BorderBrush="Black"
+                    FrameRate="70"
+                    FrameSize="480, 480"                    
+                    ImageDirectory="C:\WebcamSnapshots"
+                    VideoDirectory="C:\VideoClips" Background="White"
+                    VideoDevice="{Binding SelectedItem, ElementName=VidDevices}"
+                    AudioDevice="{Binding SelectedItem, ElementName=AudDevices}" Loaded="WebcamViewer_Loaded"/>
+
+            <TextBlock Text="カメラ選択" TextAlignment="Center" FontSize="25" VerticalAlignment="Center" Margin="573,360,613,458" Height="52" FontWeight="Bold" TextBlock.Foreground="red"/>
+
+            <ComboBox x:Name="VidDevices"  FontSize="25" Margin="500,438,531,372" 
+                      ItemsSource="{Binding VideoDevices}"
+                      DisplayMemberPath="Name"
+                      SelectedIndex="0" Background="White"/>
+            <Button HorizontalAlignment="Left" Margin="0,315,-5,0"  Background="White"  FontWeight="Bold" BorderBrush="#7B68EE" VerticalAlignment="Top" Width="1350" Height="5"/>
+
+            <Button Content="保存" Name="SaveOrder"  FontSize="25" Background="#FF4500" FontWeight="Bold" TextBlock.Foreground="White" HorizontalAlignment="Left" Margin="1133,801,0,0" VerticalAlignment="Top" Width="199" Height="66" Click="SaveOrder_Click"/>
+            <Grid HorizontalAlignment="Left" Height="216" Margin="521,534,0,0" VerticalAlignment="Top" Width="283">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="52"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="52"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="52"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Button Name="StartCameraBtn" Click="StartCaptureButton_Click" Grid.Row="0" FontSize="25" TextBlock.Foreground="White" Background="#5F9EA0"  FontWeight="DemiBold" BorderBrush="#5F9EA0">カメラ起動</Button>
+                <Button Name="TakePhotoBtn" Click="TakeSnapshotButton_Click" Grid.Row="2"  FontSize="25" TextBlock.Foreground="White" Background="#5F9EA0"  FontWeight="DemiBold" BorderBrush="#5F9EA0">写真撮る</Button>
+                <Button Name="StopCameraBtn" Click="StopCaptureButton_Click" Grid.Row="4"  FontSize="25" TextBlock.Foreground="White" Background="#5F9EA0"  FontWeight="DemiBold" BorderBrush="#5F9EA0">カメラストップ</Button>
+            </Grid>
+
+            <Grid Background="White" HorizontalAlignment="Left" Height="410"  Margin="865,354,0,0" VerticalAlignment="Top" Width="470">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1.3*" />
+                    <ColumnDefinition Width="3*" />
+                    <ColumnDefinition Width="1*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="60"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="52"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="52"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="52"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="52"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Button Grid.Row="0" Grid.Column="3" Content="検索" FontWeight="DemiBold" TextBlock.Foreground="White" FontSize="25" Background="#5F9EA0"  Click="Button_Click" Height="52" BorderBrush="#5F9EA0" BorderThickness="2"/>
+                <TextBlock Grid.Row="0" Grid.Column="0" Text="アカウント" FontSize="25" Height="52" TextBlock.Foreground="#5F9EA0" FontWeight="DemiBold"/>
+                <TextBox Grid.Row="0" Grid.Column="1" Name="AccountName" FontSize="25"  Height="52"/>
+
+                <TextBlock Grid.Row="2" Grid.Column="0" FontSize="25" TextBlock.Foreground="#5F9EA0" FontWeight="DemiBold">名前</TextBlock>
+                <TextBox Grid.Row="2" Grid.Column="1" Name="EmpName" IsEnabled="False" FontSize="25" TextWrapping="Wrap"/>
+                <TextBlock Grid.Row="4" Grid.Column="0" FontSize="25" TextBlock.Foreground="#5F9EA0" FontWeight="DemiBold">箇所</TextBlock>
+                <TextBox Grid.Row="4" Grid.Column="1" Name="DepartmentName" IsEnabled="False" FontSize="25" TextWrapping="Wrap"/>
+                <TextBlock Grid.Row="6" Grid.Column="0" FontSize="25" TextBlock.Foreground="#5F9EA0" FontWeight="DemiBold">担当</TextBlock>
+                <TextBox Grid.Row="6" Grid.Column="1" Name="SectionName" IsEnabled="False" FontSize="25" TextWrapping="Wrap"/>
+                <TextBlock Grid.Row="8" Grid.Column="0" FontSize="25" TextBlock.Foreground="#5F9EA0" FontWeight="DemiBold">プロジェクト</TextBlock>
+                <TextBox Grid.Row="8" Grid.Column="1" Name="ProjectName" IsEnabled="False" FontSize="25" TextWrapping="Wrap"/>
+            </Grid>
+            <Button Name="CancelBtn" BorderBrush="#5F9EA0" BorderThickness="2" Content="取消" FontSize="25" Background="White" FontWeight="SemiBold" TextBlock.Foreground="Black" HorizontalAlignment="Left" Margin="867,802,0,0" VerticalAlignment="Top" Width="199" Height="66" Click="CancelBtn_Click" />
+            <Button Name ="ResetBtn" Background="White" BorderThickness="2" BorderBrush="#5F9EA0" Content="リセット" FontSize="25" HorizontalAlignment="Left" Margin="1178,258,0,0" VerticalAlignment="Top" Width="120" Height="46" RenderTransformOrigin="0.571,-0.281" Click="ResetBtn_Click"/>
+            <Image Name="EmpImage" HorizontalAlignment="Left" Height="67" Margin="195,793,0,0" VerticalAlignment="Top" Width="100"/>
+            <TextBox Name="AccountNameToSave"  HorizontalAlignment="Left" Height="23" Margin="601,719,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+            <Grid  HorizontalAlignment="Left" Height="105" Margin="27,144,0,0" VerticalAlignment="Top" Width="1271" RenderTransformOrigin="0.505,1.167" Background="White">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="8*" />
+                    <ColumnDefinition Width="90*"/>
+                    <ColumnDefinition Width="98*" />
+                    <ColumnDefinition Width="294*"/>
+                    <ColumnDefinition Width="58*" />
+                    <ColumnDefinition Width="235*"/>
+                    <ColumnDefinition Width="294*" />
+                    <ColumnDefinition Width="196*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"></RowDefinition>
+                    <RowDefinition Height="70"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Border Grid.Row="0" Grid.Column="0" BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="3" Margin="0,0,97.5,0"/>
+                <Border Grid.Row="0" Grid.Column="2" BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="2" Margin="0.5,0,293,0" />
+                <Border Grid.Row="0" Grid.Column="3" BorderBrush="Black" BorderThickness="1" Margin="0.5,0,0,0" />
+                <Border Grid.Row="0" Grid.Column="4" BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="3" Margin="0,0,293,0" />
+                <Border Grid.Row="0" Grid.Column="6" BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="2" Margin="0.5,0,195,0" />
+                <Border Grid.Row="0" Grid.Column="7" BorderBrush="Black" BorderThickness="1" Margin="1,0,0,0"/>
+                <Border Grid.Row="1" Grid.Column="0" BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="3" Margin="0,0,97.5,0"/>
+                <Border Grid.Row="1" Grid.Column="2" BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="2" Margin="0.5,0,293,0"/>
+                <Border Grid.Row="1" Grid.Column="3" BorderBrush="Black" BorderThickness="1" Margin="0.5,0,0,0"/>
+                <Border Grid.Row="1" Grid.Column="4" BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="3" Margin="0,0,293,0"/>
+                <Border Grid.Row="1" Grid.Column="6" BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="2" Margin="0.5,0,195,0"/>
+                <Border Grid.Row="1" Grid.Column="7" BorderBrush="Black" BorderThickness="1" Margin="1,0,0,0"/>
+                <Border Grid.Row="1" Grid.Column="7" BorderBrush="Black" BorderThickness="1" Margin="1,0,0,0"/>
+                <TextBlock Grid.Row="0" Grid.Column="0" Text="注文ID" FontSize="25" FontWeight="DemiBold" Height="35" VerticalAlignment="Top" Grid.ColumnSpan="3" Margin="0,0,97.5,0"/>
+                <TextBlock Grid.Row="0" Grid.Column="2" Text="設備ID" FontSize="25" FontWeight="DemiBold" Grid.ColumnSpan="2" Margin="0.5,0,293,0"/>
+                <TextBlock Grid.Row="0" Grid.Column="3" Text="設備名" FontSize="25" FontWeight="DemiBold" Grid.ColumnSpan="2" Margin="0.5,0,56.846,0" />
+                <TextBlock Grid.Row="0" Grid.Column="4" Text="貸出時間" FontSize="25" FontWeight="DemiBold"   Margin="1,0,293,0" Grid.ColumnSpan="3"/>
+                <TextBlock Grid.Row="0" Grid.Column="6" Text="返却時間" FontSize="25"  FontWeight="DemiBold" Grid.ColumnSpan="2" Margin="0.5,0,195,0"  />
+                <TextBlock Grid.Row="0" Grid.Column="7" Text="有無" FontSize="25" FontWeight="DemiBold" Margin="1,0,-1,0" />
+
+                <TextBlock Grid.Row="1" Grid.Column="0" Name="OrderIDTbl"  FontSize="25" Grid.ColumnSpan="3" Margin="0,0,97.5,0" />
+                <TextBlock Grid.Row="1" Grid.Column="2" Name="EquipmentIdTbl"   FontSize="25" Grid.ColumnSpan="2" Margin="0.5,0,293,0" />
+                <TextBlock Grid.Row="1" Grid.Column="3" Name="EquipmentNameTbl"   FontSize="25" TextWrapping="Wrap" Grid.ColumnSpan="2" Margin="0.5,0,56.846,0"/>
+                <TextBlock Grid.Row="1" Grid.Column="4" Name="OrderDateTbl"   FontSize="25" TextWrapping="Wrap" Margin="1,0,293,0" Grid.ColumnSpan="3"/>
+                <TextBlock Grid.Row="1" Grid.Column="6" Name="ReturnedDateTbl"  FontSize="25" TextWrapping="Wrap" Grid.ColumnSpan="2" Margin="0.5,0,195,0"/>
+                <TextBlock Grid.Row="1" Grid.Column="7" Name="EquipStatusTbl" FontSize="25" Margin="1,0,-1,0"/>
+
+            </Grid>
+            <TextBlock HorizontalAlignment="Left" Margin="256,50,0,0" TextWrapping="Wrap" Text="☆☆☆☆☆　SETSUKAN　☆☆☆☆☆" TextBlock.Foreground="#FFFF55" FontSize="50" VerticalAlignment="Top" Height="75" Width="878"/>
+            <TextBox x:Name="debug1" HorizontalAlignment="Left" Height="74" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="385" Margin="27,793,0,0"/>
+            <TextBox x:Name="debug2" HorizontalAlignment="Left" Height="74" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="401" Margin="433,793,0,0" RenderTransformOrigin="2.481,2.352"/>
+        </Grid>
+    </Border>
+</Window>

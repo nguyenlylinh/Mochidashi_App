@@ -1,0 +1,104 @@
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.exe
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.pdb
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.xml
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\bin\Debug\WebcamControl.dll
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\bin\Debug\WebcamControl.xml
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbprojResolveAssemblyReference.cache
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\obj\x86\Debug\MainWindow.baml
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\obj\x86\Debug\MainWindow.g.vb
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\obj\x86\Debug\Application.g.vb
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam_MarkupCompile.cache
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.g.resources
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\obj\x86\Debug\WPF_Webcam.Resources.resources
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbproj.GenerateResource.Cache
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.exe
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.xml
+G:\Projects\Webcam\v3.0\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.pdb
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.exe
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.xml
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.pdb
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.exe
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.pdb
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.xml
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\bin\Debug\WebcamControl.dll
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\bin\Debug\WebcamControl.xml
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbprojResolveAssemblyReference.cache
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\obj\x86\Debug\MainWindow.baml
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\obj\x86\Debug\MainWindow.g.vb
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\obj\x86\Debug\Application.g.vb
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam_MarkupCompile.cache
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.g.resources
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\obj\x86\Debug\WPF_Webcam.Resources.resources
+F:\Projects\VB_sample\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbproj.GenerateResource.Cache
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.exe
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.pdb
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.xml
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\bin\Debug\WebcamControl.dll
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\bin\Debug\WebcamControl.xml
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbprojResolveAssemblyReference.cache
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\obj\x86\Debug\MainWindow.baml
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\obj\x86\Debug\MainWindow.g.vb
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\obj\x86\Debug\Application.g.vb
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam_MarkupCompile.cache
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.g.resources
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\obj\x86\Debug\WPF_Webcam.Resources.resources
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbproj.GenerateResource.Cache
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.exe
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.xml
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.pdb
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.dll
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.xml
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+F:\Projects\Webcam\v3.1\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.exe.config
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.exe
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.pdb
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.xml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.dll
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\WebcamControl.dll
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\WebcamControl.xml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.xml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbprojResolveAssemblyReference.cache
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\obj\x86\Debug\MainWindow.baml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\obj\x86\Debug\MainWindow.g.vb
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\obj\x86\Debug\Application.g.vb
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam_MarkupCompile.cache
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.g.resources
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\obj\x86\Debug\WPF_Webcam.Resources.resources
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbproj.GenerateResource.Cache
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.exe
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.xml
+F:\Projects\Webcam\v3.2\NuGet\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.pdb
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.exe.config
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.exe
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.pdb
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\WPF Webcam.xml
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\WebcamControl.dll
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\WebcamControl.pdb
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\WebcamControl.xml
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbprojAssemblyReference.cache
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\MainWindow.baml
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\MainWindow.g.vb
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\Application.g.vb
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam_MarkupCompile.cache
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.g.resources
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\WPF_Webcam.Resources.resources
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbproj.GenerateResource.cache
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbproj.CoreCompileInputs.cache
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.vbproj.CopyComplete
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.exe
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.xml
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\obj\x86\Debug\WPF Webcam.pdb
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.dll.config
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\lylinh\Downloads\WebcamControl\WPF Webcam\bin\Debug\Microsoft.Expression.Encoder.Types.xml

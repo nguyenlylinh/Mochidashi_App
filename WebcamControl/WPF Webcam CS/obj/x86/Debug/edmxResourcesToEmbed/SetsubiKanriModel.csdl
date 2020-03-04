@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SetsubiKanriModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="DepartmentID" />
+    </Key>
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Employees" Relationship="Self.FK__Employee__Depart__44FF419A" FromRole="Department" ToRole="Employee" />
+    <NavigationProperty Name="Projects" Relationship="Self.FK__Project__Departm__412EB0B6" FromRole="Department" ToRole="Project" />
+    <NavigationProperty Name="Sections" Relationship="Self.FK__Section__Departm__3E52440B" FromRole="Department" ToRole="Section" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <Property Name="SectionID" Type="Int32" Nullable="false" />
+    <Property Name="ProjectID" Type="Int32" Nullable="false" />
+    <Property Name="EmployeeCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EmployeeName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EmployeeImage" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Department" Relationship="Self.FK__Employee__Depart__44FF419A" FromRole="Employee" ToRole="Department" />
+    <NavigationProperty Name="Project" Relationship="Self.FK__Employee__Projec__46E78A0C" FromRole="Employee" ToRole="Project" />
+    <NavigationProperty Name="Section" Relationship="Self.FK__Employee__Sectio__45F365D3" FromRole="Employee" ToRole="Section" />
+    <NavigationProperty Name="EmployeeOrders" Relationship="Self.FK__EmployeeO__Emplo__49C3F6B7" FromRole="Employee" ToRole="EmployeeOrder" />
+  </EntityType>
+  <EntityType Name="EmployeeOrder">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="Int32" Nullable="false" />
+    <Property Name="EmployeeID" Type="Int32" Nullable="false" />
+    <Property Name="OrderDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ReturnCompleteDate" Type="DateTime" Precision="3" />
+    <Property Name="OrderStatus" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Employee" Relationship="Self.FK__EmployeeO__Emplo__49C3F6B7" FromRole="EmployeeOrder" ToRole="Employee" />
+  </EntityType>
+  <EntityType Name="Equipment">
+    <Key>
+      <PropertyRef Name="EquipmentID" />
+    </Key>
+    <Property Name="EquipmentID" Type="Int32" Nullable="false" />
+    <Property Name="RFIDTagID" Type="Int32" Nullable="false" />
+    <Property Name="EquipmentName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <Property Name="SectionID" Type="Int32" Nullable="false" />
+    <Property Name="ProjectID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="RFIDTag" Relationship="Self.FK__Equipment__RFIDT__4E88ABD4" FromRole="Equipment" ToRole="RFIDTag" />
+  </EntityType>
+  <EntityType Name="OrderDetail">
+    <Key>
+      <PropertyRef Name="OrderID" />
+      <PropertyRef Name="EquipmentID" />
+    </Key>
+    <Property Name="OrderID" Type="Int32" Nullable="false" />
+    <Property Name="EquipmentID" Type="Int32" Nullable="false" />
+    <Property Name="OrderDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="EstimateReturnDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ReturnedDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="ProjectID" />
+    </Key>
+    <Property Name="ProjectID" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <Property Name="SectionID" Type="Int32" Nullable="false" />
+    <Property Name="ProjectName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Department" Relationship="Self.FK__Project__Departm__412EB0B6" FromRole="Project" ToRole="Department" />
+    <NavigationProperty Name="Employees" Relationship="Self.FK__Employee__Projec__46E78A0C" FromRole="Project" ToRole="Employee" />
+    <NavigationProperty Name="Section" Relationship="Self.FK__Project__Section__4222D4EF" FromRole="Project" ToRole="Section" />
+  </EntityType>
+  <EntityType Name="RFIDLeader">
+    <Key>
+      <PropertyRef Name="RFIDLeaderID" />
+    </Key>
+    <Property Name="RFIDLeaderID" Type="Int32" Nullable="false" />
+    <Property Name="RFIDLeaderName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="RFIDTags" Relationship="Self.FK__RFIDTag__RFIDLea__398D8EEE" FromRole="RFIDLeader" ToRole="RFIDTag" />
+  </EntityType>
+  <EntityType Name="RFIDTag">
+    <Key>
+      <PropertyRef Name="RFIDTagID" />
+    </Key>
+    <Property Name="RFIDTagID" Type="Int32" Nullable="false" />
+    <Property Name="RFIDTagNumber" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="RFIDLeaderID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Equipments" Relationship="Self.FK__Equipment__RFIDT__4E88ABD4" FromRole="RFIDTag" ToRole="Equipment" />
+    <NavigationProperty Name="RFIDLeader" Relationship="Self.FK__RFIDTag__RFIDLea__398D8EEE" FromRole="RFIDTag" ToRole="RFIDLeader" />
+  </EntityType>
+  <EntityType Name="Section">
+    <Key>
+      <PropertyRef Name="SectionID" />
+    </Key>
+    <Property Name="SectionID" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <Property Name="SectionName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Department" Relationship="Self.FK__Section__Departm__3E52440B" FromRole="Section" ToRole="Department" />
+    <NavigationProperty Name="Employees" Relationship="Self.FK__Employee__Sectio__45F365D3" FromRole="Section" ToRole="Employee" />
+    <NavigationProperty Name="Projects" Relationship="Self.FK__Project__Section__4222D4EF" FromRole="Section" ToRole="Project" />
+  </EntityType>
+  <Association Name="FK__Employee__Depart__44FF419A">
+    <End Role="Department" Type="Self.Department" Multiplicity="1" />
+    <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department">
+        <PropertyRef Name="DepartmentID" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Project__Departm__412EB0B6">
+    <End Role="Department" Type="Self.Department" Multiplicity="1" />
+    <End Role="Project" Type="Self.Project" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department">
+        <PropertyRef Name="DepartmentID" />
+      </Principal>
+      <Dependent Role="Project">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Section__Departm__3E52440B">
+    <End Role="Department" Type="Self.Department" Multiplicity="1" />
+    <End Role="Section" Type="Self.Section" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department">
+        <PropertyRef Name="DepartmentID" />
+      </Principal>
+      <Dependent Role="Section">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Employee__Projec__46E78A0C">
+    <End Role="Project" Type="Self.Project" Multiplicity="1" />
+    <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Project">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="ProjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Employee__Sectio__45F365D3">
+    <End Role="Section" Type="Self.Section" Multiplicity="1" />
+    <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Section">
+        <PropertyRef Name="SectionID" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="SectionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EmployeeO__Emplo__49C3F6B7">
+    <End Role="Employee" Type="Self.Employee" Multiplicity="1" />
+    <End Role="EmployeeOrder" Type="Self.EmployeeOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="EmployeeID" />
+      </Principal>
+      <Dependent Role="EmployeeOrder">
+        <PropertyRef Name="EmployeeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Equipment__RFIDT__4E88ABD4">
+    <End Role="RFIDTag" Type="Self.RFIDTag" Multiplicity="1" />
+    <End Role="Equipment" Type="Self.Equipment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RFIDTag">
+        <PropertyRef Name="RFIDTagID" />
+      </Principal>
+      <Dependent Role="Equipment">
+        <PropertyRef Name="RFIDTagID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Project__Section__4222D4EF">
+    <End Role="Section" Type="Self.Section" Multiplicity="1" />
+    <End Role="Project" Type="Self.Project" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Section">
+        <PropertyRef Name="SectionID" />
+      </Principal>
+      <Dependent Role="Project">
+        <PropertyRef Name="SectionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RFIDTag__RFIDLea__398D8EEE">
+    <End Role="RFIDLeader" Type="Self.RFIDLeader" Multiplicity="1" />
+    <End Role="RFIDTag" Type="Self.RFIDTag" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RFIDLeader">
+        <PropertyRef Name="RFIDLeaderID" />
+      </Principal>
+      <Dependent Role="RFIDTag">
+        <PropertyRef Name="RFIDLeaderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SetsubiKanriEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Departments" EntityType="Self.Department" />
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="EmployeeOrders" EntityType="Self.EmployeeOrder" />
+    <EntitySet Name="Equipments" EntityType="Self.Equipment" />
+    <EntitySet Name="OrderDetails" EntityType="Self.OrderDetail" />
+    <EntitySet Name="Projects" EntityType="Self.Project" />
+    <EntitySet Name="RFIDLeaders" EntityType="Self.RFIDLeader" />
+    <EntitySet Name="RFIDTags" EntityType="Self.RFIDTag" />
+    <EntitySet Name="Sections" EntityType="Self.Section" />
+    <AssociationSet Name="FK__Employee__Depart__44FF419A" Association="Self.FK__Employee__Depart__44FF419A">
+      <End Role="Department" EntitySet="Departments" />
+      <End Role="Employee" EntitySet="Employees" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Project__Departm__412EB0B6" Association="Self.FK__Project__Departm__412EB0B6">
+      <End Role="Department" EntitySet="Departments" />
+      <End Role="Project" EntitySet="Projects" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Section__Departm__3E52440B" Association="Self.FK__Section__Departm__3E52440B">
+      <End Role="Department" EntitySet="Departments" />
+      <End Role="Section" EntitySet="Sections" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Employee__Projec__46E78A0C" Association="Self.FK__Employee__Projec__46E78A0C">
+      <End Role="Project" EntitySet="Projects" />
+      <End Role="Employee" EntitySet="Employees" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Employee__Sectio__45F365D3" Association="Self.FK__Employee__Sectio__45F365D3">
+      <End Role="Section" EntitySet="Sections" />
+      <End Role="Employee" EntitySet="Employees" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EmployeeO__Emplo__49C3F6B7" Association="Self.FK__EmployeeO__Emplo__49C3F6B7">
+      <End Role="Employee" EntitySet="Employees" />
+      <End Role="EmployeeOrder" EntitySet="EmployeeOrders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Equipment__RFIDT__4E88ABD4" Association="Self.FK__Equipment__RFIDT__4E88ABD4">
+      <End Role="RFIDTag" EntitySet="RFIDTags" />
+      <End Role="Equipment" EntitySet="Equipments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Project__Section__4222D4EF" Association="Self.FK__Project__Section__4222D4EF">
+      <End Role="Section" EntitySet="Sections" />
+      <End Role="Project" EntitySet="Projects" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RFIDTag__RFIDLea__398D8EEE" Association="Self.FK__RFIDTag__RFIDLea__398D8EEE">
+      <End Role="RFIDLeader" EntitySet="RFIDLeaders" />
+      <End Role="RFIDTag" EntitySet="RFIDTags" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

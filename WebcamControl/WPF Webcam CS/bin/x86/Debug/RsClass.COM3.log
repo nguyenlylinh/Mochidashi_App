@@ -1,0 +1,17 @@
+20/03/04 12:51:43.994         InitHttpApi()...
+20/03/04 12:51:43.994         debug=0
+20/03/04 12:51:43.994         -------------------------------------------------------------------------------------
+20/03/04 12:51:43.994         RsClass ver.100.2017.1031.588
+20/03/04 12:51:43.994         -------------------------------------------------------------------------------------
+20/03/04 12:51:44.009         ★★★ ERROR: SerialOpen() port.Open() failed on COM3. Exception ex=ポート 'COM3' は存在しません。
+20/03/04 12:51:44.009         ★★★ ERROR: InitHttpApi() SerialOpen() failed.
+20/03/04 12:51:44.009 C->S    Http: RECV_MSG=/reader/module/004reset
+20/03/04 12:51:44.025 C<-S    Http: SEND_MSG={ "response":"9992", "message":"no_serial_connection" }
+20/03/04 12:51:44.025 C->S    Http: RECV_MSG=/reader/antenna/1/008setconfig?antennastatus=1
+20/03/04 12:51:44.025 C<-S    Http: SEND_MSG={ "response":"9992", "message":"no_serial_connection" }
+20/03/04 12:51:44.025 C->S    Http: RECV_MSG=/reader/antenna/common/006setconfig?session=0
+20/03/04 12:51:44.025 C<-S    Http: SEND_MSG={ "response":"9992", "message":"no_serial_connection" }
+20/03/04 12:51:44.025 C->S    Http: RECV_MSG=/reader/antenna/common/filter/1/010setconfig?f_start_bit=32&f_masklen_bit=16
+20/03/04 12:51:44.025 C<-S    Http: SEND_MSG={ "response":"9992", "message":"no_serial_connection" }
+20/03/04 12:51:44.025 C->S    Http: RECV_MSG=/reader/inventory/013start
+20/03/04 12:51:44.025 C<-S    Http: SEND_MSG={ "response":"9992", "message":"no_serial_connection" }
